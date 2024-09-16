@@ -1,0 +1,26 @@
+div {
+    width: 150px;
+    height: 150px;
+    background-color:  #fea500;
+    margin: 10px;
+}
+body {
+    /*display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;*/
+    /*height: 100vh;
+    margin: 100; */
+    background-color: #f0f0f0; /* Opcjonalne tło dla lepszego kontrastu */
+}
+h1 {
+    margin-bottom: 20px;
+    color:  white;
+}
+
+.b {
+    padding: 20px; /* Odstęp wewnętrzny dla kontenera */
+    background-color: grey; /* Kolor zielony */
+    width: 350px;
+    height: 750px;
+}

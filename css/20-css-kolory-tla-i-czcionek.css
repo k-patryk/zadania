@@ -1,0 +1,45 @@
+html{
+    background-color: #C6EBBE;
+}
+
+h1{
+    background-color: #A9DBB8;
+}
+
+#first{
+    background-color: #7CA5B8;
+}
+
+h2{
+    background-color: #020887;
+    color: #A9DBB8;
+}
+
+ol{
+    background-color: #38369A;
+}
+
+#second{
+    background-color: #38369A;
+    color: #A9DBB8;
+}
+
+#one {
+    color: #7CA5B8; /* Light Blue */
+}
+
+#two {
+    color: #FF5733; /* Red */
+}
+
+#three {
+    color: #33FF57; /* Green */
+}
+
+#four {
+    color: #3357FF; /* Blue */
+}
+
+#five {
+    color: #FF33A1; /* Pink */
+}
