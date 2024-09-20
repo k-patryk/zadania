@@ -1,5 +1,5 @@
-let op = document.querySelector('p')
+let op = document.querySelector('p');
 
-a = "AAAAA"
+let a = "+let";
 
-op.textContent = a
+op.textContent = a;
